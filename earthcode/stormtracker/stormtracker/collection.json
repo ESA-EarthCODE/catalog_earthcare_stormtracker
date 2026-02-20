@@ -1,0 +1,64 @@
+{
+  "type": "Collection",
+  "id": "stormtracker",
+  "stac_version": "1.1.0",
+  "description": "Storm Tracker Description",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "EarthCODE EarthCARE Storm Tracker Catalog"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Storm Tracker"
+    }
+  ],
+  "thumbnail": "https://raw.githubusercontent.com/ESA-EarthCODE/catalog_earthcare_stormtracker/main/assets/test.png",
+  "themes": [
+    "Lightning"
+  ],
+  "endpointtype": "Collection-only",
+  "title": "Storm Tracker",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2026-02-20T17:37:31.245753Z",
+          null
+        ]
+      ]
+    }
+  },
+  "license": "other",
+  "assets": {
+    "thumbnail": {
+      "href": "https://raw.githubusercontent.com/ESA-EarthCODE/catalog_earthcare_stormtracker/main/assets/test.png",
+      "type": "image/png",
+      "roles": [
+        "thumbnail"
+      ]
+    },
+    "reference_1": {
+      "href": "https://example.com",
+      "type": "text/html",
+      "title": "Link",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
+}
