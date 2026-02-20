@@ -1,0 +1,20 @@
+{
+  "Name": "stormtracker",
+  "Title": "Storm Tracker",
+  "Description": "Storm Tracker Description",
+  "Themes": [
+    "Lightning"
+  ],
+  "References": [
+    {
+      "Name": "Link",
+      "Url": "https://example.com"
+    }
+  ],
+  "Image": "test.png",
+  "Resources": [
+    {
+      "Name": "Collection-only"
+    }
+  ]
+}
