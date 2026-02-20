@@ -1,5 +1,5 @@
 {
-  "id": "earthcode",
+  "id": "stormtracker",
   "title": "EarthCODE EarthCARE Storm Tracker Catalog",
   "description": "Catalog for EarthCODE EarthCARE Storm Tracker Dashboard",
   "endpoint": "https://ESA-EarthCODE.github.io/catalog_earthcare_stormtracker/stormtracker/",
