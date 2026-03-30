@@ -15,7 +15,7 @@
   "Resources": [
      {
         "Name": "GeoJSON source",
-        "Style": "https://workspace-ui-public.earthcode-publishing-support.earthcode.eox.at/api/public/share/public-3a71hc0d3-101/stormtracker_style.json",
+        "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/assets/stormtracker_style.json",
         "TimeEntries": [
             {
                 "Time": "20250101",
