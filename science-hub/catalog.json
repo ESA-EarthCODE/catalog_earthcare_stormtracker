@@ -1,14 +1,14 @@
 {
   "type": "Catalog",
-  "id": "stormtracker",
+  "id": "science-hub",
   "stac_version": "1.1.0",
-  "description": "Catalog for EarthCODE EarthCARE Storm Tracker Dashboard",
+  "description": "Catalog for Science Hub Dashboard",
   "links": [
     {
       "rel": "root",
       "href": "./catalog.json",
       "type": "application/json",
-      "title": "EarthCODE EarthCARE Storm Tracker Catalog"
+      "title": "Science Hub Catalog"
     },
     {
       "rel": "child",
@@ -20,14 +20,14 @@
         "Lightning"
       ],
       "thumbnail": [
-        "https://raw.githubusercontent.com/ESA-EarthCODE/catalog_earthcare_stormtracker/main/assets/test.png"
+        "https://raw.githubusercontent.com/ESA-EarthCODE/science-hub-catalog/main/assets/test.png"
       ]
     },
     {
       "rel": "self",
-      "href": "https://ESA-EarthCODE.github.io/catalog_earthcare_stormtracker/stormtracker/catalog.json",
+      "href": "https://ESA-EarthCODE.github.io/science-hub-catalog/science-hub/catalog.json",
       "type": "application/json"
     }
   ],
-  "title": "EarthCODE EarthCARE Storm Tracker Catalog"
+  "title": "Science Hub Catalog"
 }
