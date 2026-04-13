@@ -14,7 +14,7 @@
       "rel": "child",
       "href": "./stormtracker/collection.json",
       "type": "application/json",
-      "title": "Storm Tracker",
+      "title": "EarthCARE Lightning Storm Tracker",
       "id": "stormtracker",
       "themes": [
         "Lightning"

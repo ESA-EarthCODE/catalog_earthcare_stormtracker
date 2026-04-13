@@ -14,7 +14,7 @@
       "rel": "child",
       "href": "./stormtracker/collection.json",
       "type": "application/json",
-      "title": "Storm Tracker",
+      "title": "EarthCARE Lightning Storm Tracker",
       "endpointtype": "GeoJSON source",
       "id": "stormtracker",
       "themes": [
@@ -105,7 +105,7 @@
   ],
   "eodash:jsonform": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/assets/stormtracker_form.json",
   "eodash:vegadefinition": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/assets/chart.json",
-  "title": "Storm Tracker",
+  "title": "EarthCARE Lightning Storm Tracker",
   "extent": {
     "spatial": {
       "bbox": [
