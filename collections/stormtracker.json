@@ -7,11 +7,19 @@
   ],
   "References": [
     {
-      "Name": "Link",
+      "Name": "Open Science Catalog",
+      "Url": "https://opensciencedata.esa.int/external/s3.waw4-1.cloudferro.com/EarthCODE/Catalogs/storm-data/earthcare-frame-lightning/collection"
+    },
+    {
+      "Name": "Heino Tooming award 2025",
+      "Url": "https://eo4society.esa.int/2025/12/03/heino-tooming-award-2025-goes-to-blanka-piskala/"
+    },
+    {
+      "Name": "ESA MAAP",
       "Url": "https://catalog.maap.eo.esa.int/doc/examples/ESAMAAP_ecdataaccess.html"
     }
   ],
-  "Image": "test.png",
+  "Image": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/assets/storm_preview.jpg",
   "Resources": [
      {
         "Name": "GeoJSON source",
